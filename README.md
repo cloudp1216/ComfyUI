@@ -21,7 +21,7 @@ docker build -t comfyui:v0.3.10 .
 ```
 
 
-### 四、访问ComfyUI`http://x.x.x.x:8100`
+### 四、访问ComfyUI界面`http://x.x.x.x:8188`
 ![](./img/ui.jpg)
 
 
