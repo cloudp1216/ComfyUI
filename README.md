@@ -6,6 +6,8 @@
 - CUDA：>= 12.4
 - 其它：安装docker、nvidia-docker2
 
+  （https://github.com/comfyanonymous/ComfyUI）
+
 
 ### 二、构建comfyui镜像
 ```shell
